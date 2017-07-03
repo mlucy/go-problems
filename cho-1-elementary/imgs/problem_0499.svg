@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+  <radialGradient id="bg" fx="0.3" fy="0.3">
+    <stop offset="0%" stop-color="#777777"></stop>
+    <stop offset="30%" stop-color="#444444"></stop>
+    <stop offset="100%" stop-color="#111111"></stop>
+  </radialGradient>
+  <radialGradient id="wg" fx="0.49" fy="0.56">
+    <stop offset="70%" stop-color="#ffffff"></stop>
+    <stop offset="95%" stop-color="#cccccc"></stop>
+    <stop offset="100%" stop-color="#999999"></stop>
+  </radialGradient>
+</defs>
+<rect
+  width="297"
+  height="227"
+  fill="#DCB35C"
+/>
+<line x1="52" y1="51.0" x2="52" y2="209.5" stroke="black" stroke-width="2" />
+<line x1="87" y1="51.0" x2="87" y2="209.5" stroke="black" stroke-width="1" />
+<line x1="122" y1="51.0" x2="122" y2="209.5" stroke="black" stroke-width="1" />
+<line x1="157" y1="51.0" x2="157" y2="209.5" stroke="black" stroke-width="1" />
+<line x1="192" y1="51.0" x2="192" y2="209.5" stroke="black" stroke-width="1" />
+<line x1="227" y1="51.0" x2="227" y2="209.5" stroke="black" stroke-width="1" />
+<line x1="262" y1="51.0" x2="262" y2="209.5" stroke="black" stroke-width="1" />
+<line x1="51.0" y1="52" x2="279.5" y2="52" stroke="black" stroke-width="2" />
+<line x1="51.0" y1="87" x2="279.5" y2="87" stroke="black" stroke-width="1" />
+<line x1="51.0" y1="122" x2="279.5" y2="122" stroke="black" stroke-width="1" />
+<line x1="51.0" y1="157" x2="279.5" y2="157" stroke="black" stroke-width="1" />
+<line x1="51.0" y1="192" x2="279.5" y2="192" stroke="black" stroke-width="1" />
+<text
+  x="47.0" y="25"
+  font-family="sans-serif" fill="#665544"
+>
+  A
+</text>
+<text
+  x="82.0" y="25"
+  font-family="sans-serif" fill="#665544"
+>
+  B
+</text>
+<text
+  x="117.0" y="25"
+  font-family="sans-serif" fill="#665544"
+>
+  C
+</text>
+<text
+  x="152.0" y="25"
+  font-family="sans-serif" fill="#665544"
+>
+  D
+</text>
+<text
+  x="187.0" y="25"
+  font-family="sans-serif" fill="#665544"
+>
+  E
+</text>
+<text
+  x="222.0" y="25"
+  font-family="sans-serif" fill="#665544"
+>
+  F
+</text>
+<text
+  x="257.0" y="25"
+  font-family="sans-serif" fill="#665544"
+>
+  G
+</text>
+<text
+  x="8" y="56.5"
+  font-family="sans-serif" fill="#665544"
+>
+  19
+</text>
+<text
+  x="8" y="91.5"
+  font-family="sans-serif" fill="#665544"
+>
+  18
+</text>
+<text
+  x="8" y="126.5"
+  font-family="sans-serif" fill="#665544"
+>
+  17
+</text>
+<text
+  x="8" y="161.5"
+  font-family="sans-serif" fill="#665544"
+>
+  16
+</text>
+<text
+  x="8" y="196.5"
+  font-family="sans-serif" fill="#665544"
+>
+  15
+</text>
+<rect
+  x="154.08333333333334"
+  y="154.08333333333334"
+  width="5.833333333333333"
+  height="5.833333333333333"
+  r="0" rx="0" ry="0"
+  fill="black" stroke="black">
+</rect>
+<circle cx="157" cy="52"
+        r="17.5"
+        fill="url(#bg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="192" cy="87"
+        r="17.5"
+        fill="url(#bg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="52" cy="122"
+        r="17.5"
+        fill="url(#bg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="87" cy="122"
+        r="17.5"
+        fill="url(#bg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="122" cy="122"
+        r="17.5"
+        fill="url(#bg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="157" cy="122"
+        r="17.5"
+        fill="url(#bg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="192" cy="122"
+        r="17.5"
+        fill="url(#bg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="122" cy="52"
+        r="17.5"
+        fill="url(#wg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="227" cy="52"
+        r="17.5"
+        fill="url(#wg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="122" cy="87"
+        r="17.5"
+        fill="url(#wg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="227" cy="87"
+        r="17.5"
+        fill="url(#wg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="227" cy="122"
+        r="17.5"
+        fill="url(#wg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="52" cy="157"
+        r="17.5"
+        fill="url(#wg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="87" cy="157"
+        r="17.5"
+        fill="url(#wg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="122" cy="157"
+        r="17.5"
+        fill="url(#wg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="157" cy="157"
+        r="17.5"
+        fill="url(#wg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="192" cy="157"
+        r="17.5"
+        fill="url(#wg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+<circle cx="227" cy="157"
+        r="17.5"
+        fill="url(#wg)" stroke="#888888"
+        opacity="1" fill-opacity="1" stroke-opacity="0.5">
+</circle>
+</svg>
