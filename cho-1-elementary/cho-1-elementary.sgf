@@ -117,7 +117,7 @@
 (;AB[ab][bc][cb]AW[bd][cc][ce][db][dc]C[problem 116])
 (;AB[ab][ba][bc]AW[bd][cc][ce][db][dc]C[problem 117])
 (;AB[ab][bc][cb]AW[bd][cc][ce][db][dc]C[problem 118])
-(;AB[db][eb][ef][fc][ff][gb][gc][gd][ge]AW[da][dc][de][ec][ee][fa][fb][fd]C[problem 119])
+(;AB[ab][bb][bf][cc][cf][db][dc][dd][de]AW[aa][ac][ae][bc][be][ca][cb][cd]C[problem 119])
 (;AB[ba][bd][be][ce][da][de][eb][ec][ed][ee]AW[aa][ac][bc][ca][cb][cd][dc][dd]C[problem 120])
 (;AB[ab][af][bb][bd][bf][cd][cf][df]AW[ad][ag][ba][bg][cb][cg][db][dc][dd][dg][ee][ef]C[problem 121])
 (;AB[bb][bc][bd][bf][cd][cf][df]AW[ba][bg][bi][cb][cc][cg][dd][dg][ec][ee][ef]C[problem 122])
